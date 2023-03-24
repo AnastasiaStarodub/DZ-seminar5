@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\bin\Debug\net7.0\Zadacha38.exe
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\bin\Debug\net7.0\Zadacha38.deps.json
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\bin\Debug\net7.0\Zadacha38.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\bin\Debug\net7.0\Zadacha38.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\bin\Debug\net7.0\Zadacha38.pdb
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\refint\Zadacha38.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.pdb
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\Zadacha38.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ5\Zadacha38\obj\Debug\net7.0\ref\Zadacha38.dll
